@@ -1,0 +1,144 @@
+[
+    {
+        "Problem": "1",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 165,
+        "Profit": 309,
+        "Weight": 165,
+        "Optimal Value": 309,
+        "Solution": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000313 s"
+    },
+    {
+        "Problem": "2",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 26,
+        "Profit": 51,
+        "Weight": 26,
+        "Optimal Value": 51,
+        "Solution": [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000000 s"
+    },
+    {
+        "Problem": "3",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 190,
+        "Profit": 150,
+        "Weight": 190,
+        "Optimal Value": 150,
+        "Solution": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000313 s"
+    },
+    {
+        "Problem": "4",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 50,
+        "Profit": 107,
+        "Weight": 50,
+        "Optimal Value": 107,
+        "Solution": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000078 s"
+    },
+    {
+        "Problem": "5",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 104,
+        "Profit": 900,
+        "Weight": 104,
+        "Optimal Value": 900,
+        "Solution": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000234 s"
+    },
+    {
+        "Problem": "6",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 170,
+        "Profit": 1735,
+        "Weight": 169,
+        "Optimal Value": 1735,
+        "Solution": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.000313 s"
+    },
+    {
+        "Problem": "7",
+        "Algorithm": "Dynamic Programming",
+        "Capacity": 750,
+        "Profit": 1458,
+        "Weight": 749,
+        "Optimal Value": 1458,
+        "Solution": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ],
+        "Matches Optimal": true,
+        "Runtime": "0.002969 s"
+    }
+]

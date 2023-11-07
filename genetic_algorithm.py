@@ -97,3 +97,23 @@ print(table)
 
 with open("results_ga.txt", "w") as f:
     f.write(table)
+
+results_dict = []
+
+for result in results_ga:
+    result_dict = {
+        "Problem": result[0],
+        "Algorithm": result[1],
+        "Capacity": result[2],
+        "Profit": result[3],
+        "Weight": result[4],
+        "Optimal Value": result[5],
+        "Solution": result[6],
+        "Matches Optimal": result[7],
+        "Runtime": result[8]
+    }
+    results_dict.append(result_dict)
+
+# Save the results as a JSON file
+with open("results_ga.json", "w") as json_file:
+    json.dump(results_dict, json_file, indent=4)

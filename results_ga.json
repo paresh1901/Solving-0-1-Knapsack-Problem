@@ -1,0 +1,144 @@
+[
+    {
+        "Problem": "1",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 165,
+        "Profit": 309,
+        "Weight": 165,
+        "Optimal Value": 309,
+        "Solution": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.3455696105957031
+    },
+    {
+        "Problem": "2",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 26,
+        "Profit": 51,
+        "Weight": 26,
+        "Optimal Value": 51,
+        "Solution": [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.2808725833892822
+    },
+    {
+        "Problem": "3",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 190,
+        "Profit": 150,
+        "Weight": 190,
+        "Optimal Value": 150,
+        "Solution": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.2972838878631592
+    },
+    {
+        "Problem": "4",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 50,
+        "Profit": 107,
+        "Weight": 50,
+        "Optimal Value": 107,
+        "Solution": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.3130426406860352
+    },
+    {
+        "Problem": "5",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 104,
+        "Profit": 900,
+        "Weight": 104,
+        "Optimal Value": 900,
+        "Solution": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.3069736957550049
+    },
+    {
+        "Problem": "6",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 170,
+        "Profit": 1735,
+        "Weight": 169,
+        "Optimal Value": 1735,
+        "Solution": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "Matches Optimal": true,
+        "Runtime": 1.268761396408081
+    },
+    {
+        "Problem": "7",
+        "Algorithm": "Genetic Algorithm",
+        "Capacity": 750,
+        "Profit": 1446,
+        "Weight": 748,
+        "Optimal Value": 1446,
+        "Solution": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ],
+        "Matches Optimal": false,
+        "Runtime": 1.4289448261260986
+    }
+]

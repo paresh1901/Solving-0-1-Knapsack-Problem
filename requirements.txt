@@ -1,2 +1,5 @@
 numpy
 tabulate
+pandas
+matplotlib
+seaborn
